@@ -1,0 +1,22 @@
+# Audit/provisioning output logs (may contain sensitive data)
+*-log.csv
+access-audit-*.csv
+provisioning-log.csv
+
+# CSV input files (may contain PII)
+*.csv
+!sample-users.csv
+
+# PowerShell session/preference files
+*.ps1xml
+profile.ps1
+
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Editors
+.vscode/
+*.suo
+*.user
