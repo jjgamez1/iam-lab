@@ -7,9 +7,10 @@
 
 ## Overview
 
-This lab simulates a real-world enterprise IAM environment built on Windows Server 2022 and Active Directory. The objective was to replicate the day-to-day responsibilities of a systems/IAM administrator — handling user lifecycle management, enforcing security policies through Group Policy Objects (GPOs), managing file share permissions, and automating repetitive provisioning tasks with PowerShell.
+This lab simulates a real-world enterprise IAM environment built on Windows Server 2022 and Active Directory. The objective was to replicate the day-to-day responsibilities of a systems/IAM administrator — handling user lifecycle management, enforcing security policies through Group Policy Objects (GPOs), managing file share permissions, and automating repetitive provisioning tasks with PowerShell. Shoutout to Kevtech on youtube for the group policy and AD videos.
 
-The lab processed **50+ simulated helpdesk tickets** following ITIL-aligned practices, covering everything from new hire onboarding to access auditing. Shoutout to Kevtech on youtube for the group policy and AD videos.
+The lab processed **50+ simulated helpdesk tickets** following ITIL-aligned practices, covering everything from new hire onboarding to access auditing.
+
 ---
 
 ## Lab Environment
