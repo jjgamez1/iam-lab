@@ -1,7 +1,7 @@
 # Identity & Access Management (IAM) Lab
 
 **Platform:** Windows Server 2022 | Active Directory | PowerShell | Group Policy
-**Environment:** Virtualized enterprise simulation (Oracle VirtualBox)
+**Environment:** Oracle VirtualBox
 
 ---
 
