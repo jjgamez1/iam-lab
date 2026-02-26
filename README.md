@@ -2,7 +2,6 @@
 
 **Platform:** Windows Server 2022 | Active Directory | PowerShell | Group Policy
 **Environment:** Virtualized enterprise simulation (Oracle VirtualBox)
-**Domain:** KEYTECH (`kavtech.com`)
 
 ---
 
@@ -20,7 +19,6 @@ The lab processed **50+ simulated helpdesk tickets** following ITIL-aligned prac
 |---|---|
 | Hypervisor | Oracle VirtualBox |
 | Server OS | Windows Server 2022 (Domain Controller) |
-| Domain | `kavtech.com` (NetBIOS: `KEYTECH`) |
 | Services | Active Directory Domain Services (AD DS), DNS, Group Policy, File & Storage Services |
 
 ---
@@ -72,7 +70,7 @@ Configured interactive logon restrictions to prevent unauthorized access vectors
 
 Configured NTFS and share-level permissions on the file server to enforce the principle of least privilege. Applied granular permission entries scoped to specific security groups.
 
-**Example — Tech Group Share Permissions (`KEYTECH\Tech`):**
+**Example — Tech Group Share Permissions:**
 
 | Permission | Granted |
 |---|---|
