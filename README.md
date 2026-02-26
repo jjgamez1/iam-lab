@@ -11,6 +11,7 @@ This lab simulates a real-world enterprise IAM environment built on Windows Serv
 
 The lab processed **50+ simulated helpdesk tickets** following ITIL-aligned practices, covering everything from new hire onboarding to access auditing.
 
+Credit to Kevtech on Youtube
 ---
 
 ## Lab Environment
